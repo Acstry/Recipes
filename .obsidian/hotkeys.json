@@ -1,0 +1,10 @@
+{
+  "auto-note-mover:Move-the-note": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "`"
+    }
+  ]
+}

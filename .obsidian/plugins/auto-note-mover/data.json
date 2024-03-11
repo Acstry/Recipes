@@ -1,0 +1,43 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "misc/part",
+      "tag": "#part",
+      "pattern": ""
+    },
+    {
+      "folder": "misc",
+      "tag": "#component",
+      "pattern": ""
+    },
+    {
+      "folder": "breakfast",
+      "tag": "#breakfast",
+      "pattern": ""
+    },
+    {
+      "folder": "dessert",
+      "tag": "#dessert",
+      "pattern": ""
+    },
+    {
+      "folder": "meal",
+      "tag": "#meal",
+      "pattern": ""
+    },
+    {
+      "folder": "appetizer",
+      "tag": "#appetizer",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "template"
+    }
+  ]
+}
