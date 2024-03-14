@@ -1,8 +1,7 @@
 ---
 tags:
-  - component
-  - dessert
   - vegetarian
+  - dessert
 ---
 ### Ingredients:
 - butter - 0.5 cups

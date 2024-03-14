@@ -1,6 +1,5 @@
 ---
 tags:
-  - dessert
   - vegetarian
   - breakfast
   - dairy

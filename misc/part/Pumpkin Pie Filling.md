@@ -2,7 +2,6 @@
 tags:
   - part
   - component
-  - dessert
   - dairy
 ---
 ### Ingredients:

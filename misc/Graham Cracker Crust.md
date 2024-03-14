@@ -1,8 +1,6 @@
 ---
 tags:
-  - part
   - component
-  - dessert
 ---
 ### Ingredients:
 - brown sugar - 4 tbsps

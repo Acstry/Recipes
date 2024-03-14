@@ -1,7 +1,6 @@
 ---
 tags:
   - breakfast
-  - dessert
   - vegetarian
 ---
 ### Ingredients:

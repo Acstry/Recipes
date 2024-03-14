@@ -1,8 +1,7 @@
 ---
 tags:
-  - dessert
   - dairy
-  - component
+  - dessert
 ---
 ### Ingredients:
 - flour - 1 cup
