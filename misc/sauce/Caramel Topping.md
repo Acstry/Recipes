@@ -1,13 +1,21 @@
 ---
 tags:
   - dairy
-  - component
   - sauce
+  - sweet
 ---
 ### Ingredients:
 - white sugar - 0.5 cups
 - butter - 2.5 tbsps
 - heavy cream - 0.25 cups
+- salt
+
+### Apple Cider Variant
+- apple cider reduction - 0.5 cups
+- brown sugar - 0.75 cups
+- butter - 9 tbsps
+- heavy cream - 1 cup
+- vanilla extract - 1 tsp
 - salt
 
 ### Recipe:

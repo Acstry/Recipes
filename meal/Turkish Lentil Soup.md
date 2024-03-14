@@ -3,6 +3,7 @@ tags:
   - mediterranean
   - meal
   - savory
+  - vegetarian
 ---
 ### Ingredients:
 - chopped onion

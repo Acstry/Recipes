@@ -2,8 +2,8 @@
 tags:
   - dessert
   - dairy
-  - vegetarian
   - cookie
+  - sweet
 ---
 ### Ingredients:
 - [[Pumpkin Pie Filling]]

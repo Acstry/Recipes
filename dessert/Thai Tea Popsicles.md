@@ -3,10 +3,11 @@ tags:
   - dessert
   - overnight
   - asian
+  - sweet
 ---
 ### Ingredients:
-- coconut milk - 1 can (13.5oz)
-- coconut cream - 1 can (19oz)
+- coconut milk - 1 can (13.5 oz)
+- coconut cream - 1 can (19 oz)
 - sugar - 0.25 cups and 2 tbsps
 - salt
 - thai tea leaves - 2 tbsps

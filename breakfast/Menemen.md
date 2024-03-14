@@ -3,6 +3,7 @@ tags:
   - breakfast
   - mediterranean
   - vegetarian
+  - savory
 ---
 ### Ingredients:
 - diced onion - 1

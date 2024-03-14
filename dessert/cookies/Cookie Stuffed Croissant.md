@@ -1,8 +1,8 @@
 ---
 tags:
   - dessert
-  - vegetarian
   - cookie
+  - sweet
 ---
 ### Ingredients:
 - premade croissants

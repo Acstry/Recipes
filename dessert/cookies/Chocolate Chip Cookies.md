@@ -1,8 +1,8 @@
 ---
 tags:
   - dessert
-  - vegetarian
   - cookie
+  - sweet
 ---
 ### Ingredients:
 - butter - 2 sticks

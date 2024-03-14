@@ -1,7 +1,7 @@
 ---
 tags:
   - dessert
-  - vegetarian
+  - sweet
 ---
 ### Ingredients:
 - saltines

@@ -1,8 +1,7 @@
 ---
 tags:
-  - component
-  - vegetarian
   - sauce
+  - sweet
 ---
 ### Ingredients:
 - mango skins/pits

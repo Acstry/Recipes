@@ -3,7 +3,6 @@ tags:
   - part
   - mediterranean
   - savory
-  - component
 ---
 ### Ingredients:
 - minced meat - 1.25 lbs

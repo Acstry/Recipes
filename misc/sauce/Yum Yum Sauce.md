@@ -1,9 +1,9 @@
 ---
 tags:
-  - component
   - savory
   - asian
   - sauce
+  - vegetarian
 ---
 ### Ingredients:
 - mayo - 2 cups

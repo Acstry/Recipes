@@ -1,8 +1,8 @@
 ---
 tags:
   - dessert
-  - vegetarian
   - cookie
+  - sweet
 ---
 ### Ingredients:
 - flour - 1.5 cups

@@ -2,6 +2,7 @@
 tags:
   - breakfast
   - vegetarian
+  - sweet
 ---
 ### Ingredients:
 - oats - 2 cups

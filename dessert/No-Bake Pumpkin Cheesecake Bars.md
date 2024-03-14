@@ -3,12 +3,13 @@ tags:
   - dessert
   - dairy
   - overnight
+  - sweet
 ---
 ### Ingredients:
 - [[Graham Cracker Crust]]
 - [[Whipped Cream]] with pumpkin pie spice
 - heavy cream - 1 cup
-- cream cheese - 16oz package
+- cream cheese - 16 oz package
 - sugar - 0.75 cups
 - lemon juice - 1 tsp
 - pumpkin puree - 1 cup

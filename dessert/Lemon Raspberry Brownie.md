@@ -1,7 +1,7 @@
 ---
 tags:
   - dessert
-  - vegetarian
+  - sweet
 ---
 ### Ingredients:
 - sugar - 1 cup

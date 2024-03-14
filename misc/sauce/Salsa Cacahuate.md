@@ -1,8 +1,9 @@
 ---
 tags:
-  - component
   - mexican
   - sauce
+  - savory
+  - vegetarian
 ---
 ### Ingredients:
 - chili de arbol - 20

@@ -2,6 +2,7 @@
 tags:
   - dairy
   - dessert
+  - sweet
 ---
 ### Ingredients:
 - flour - 1 cup

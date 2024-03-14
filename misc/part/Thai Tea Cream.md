@@ -2,11 +2,11 @@
 tags:
   - dairy
   - part
-  - component
+  - sweet
 ---
 ### Ingredients:
-- evaporated milk - 1 can/12oz
-- condensed milk - 1 can/9oz
+- evaporated milk - 1 can/12 oz
+- condensed milk - 1 can/ 9oz
 - milk - .33 cups
 - loose leaf thai tea - 0.5 cups
 

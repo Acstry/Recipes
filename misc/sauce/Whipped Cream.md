@@ -1,8 +1,8 @@
 ---
 tags:
   - dairy
-  - component
   - sauce
+  - sweet
 ---
 ### Ingredients:
 - heavy cream - 1.5 cups

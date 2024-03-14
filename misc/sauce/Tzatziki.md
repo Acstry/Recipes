@@ -1,10 +1,10 @@
 ---
 tags:
-  - component
   - dairy
   - mediterranean
   - savory
   - sauce
+  - vegetarian
 ---
 ### Ingredients:
 - cucumber

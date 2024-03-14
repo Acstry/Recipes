@@ -3,7 +3,7 @@ tags:
   - dessert
   - dairy
   - overnight
-  - vegetarian
+  - sweet
 ---
 ### Recipe:
 1. make [[Thai Tea Sponge Cake]]

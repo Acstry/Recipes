@@ -1,7 +1,7 @@
 ---
 tags:
-  - component
   - part
+  - sweet
 ---
 ### Ingredients:
 - almond flour - 2 cups
