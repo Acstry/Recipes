@@ -2,6 +2,7 @@
 tags:
   - dessert
   - vegetarian
+  - cookie
 ---
 ### Ingredients:
 - butter - 0.5 cups

@@ -1,6 +1,7 @@
 ---
 tags:
   - component
+  - sauce
 ---
 ### Ingredients:
 - powdered sugar - 0.33 cups

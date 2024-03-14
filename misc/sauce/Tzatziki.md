@@ -4,6 +4,7 @@ tags:
   - dairy
   - mediterranean
   - savory
+  - sauce
 ---
 ### Ingredients:
 - cucumber

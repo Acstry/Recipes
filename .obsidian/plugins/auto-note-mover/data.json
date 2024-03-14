@@ -9,6 +9,11 @@
       "pattern": ""
     },
     {
+      "folder": "misc/sauce",
+      "tag": "#sauce",
+      "pattern": ""
+    },
+    {
       "folder": "misc",
       "tag": "#component",
       "pattern": ""
@@ -16,6 +21,11 @@
     {
       "folder": "breakfast",
       "tag": "#breakfast",
+      "pattern": ""
+    },
+    {
+      "folder": "dessert/cookies",
+      "tag": "#cookie",
       "pattern": ""
     },
     {

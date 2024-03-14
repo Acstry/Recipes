@@ -2,6 +2,7 @@
 tags:
   - dessert
   - vegetarian
+  - cookie
 ---
 ### Ingredients:
 - flour - 1.5 cups

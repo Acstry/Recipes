@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85b7587d508361da",
+            "id": "72045a3988745308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "appetizer/Glazed Summer Sausage.md",
+                "file": "dessert/No-Bake Pumpkin Cheesecake Bars.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52948014927b85ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "misc/sauce/Whipped Cream.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "09b8570ab0e6fc3d",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "appetizer/Glazed Summer Sausage.md",
+                "file": "dessert/No-Bake Pumpkin Cheesecake Bars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "appetizer/Glazed Summer Sausage.md",
+                "file": "dessert/No-Bake Pumpkin Cheesecake Bars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +137,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "appetizer/Glazed Summer Sausage.md"
+                "file": "dessert/No-Bake Pumpkin Cheesecake Bars.md"
               }
             }
+          },
+          {
+            "id": "a9156d786ac3809d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,36 +166,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6b042b35f09d933",
+  "active": "72045a3988745308",
   "lastOpenFiles": [
-    "misc/Yum Yum Sauce.md",
-    "Recipes",
-    "misc/Thai Tea Sponge Cake.md",
-    "misc/part/Untitled.md",
-    "misc/part/Thai Tea Whipped Cream.md",
-    "misc/part/Thai Tea Cream.md",
-    "misc/part/Almond Filling.md",
-    "misc/Mango Syrup.md",
-    "misc/part",
-    "dessert/Thai Tea Popsicles.md",
-    "dessert/Laddos.md",
-    "breakfast/PB&J Baked Oats.md",
+    "misc/part/Graham Cracker Crust.md",
+    "dessert/No-Bake Pumpkin Cheesecake Bars.md",
+    "dessert/cookies/Pumpkin Pie Cookies.md",
+    "misc/sauce/Whipped Cream.md",
+    "misc/part/Pumpkin Pie Filling.md",
+    "dessert/cookies/Early Grey Sugar Cookies.md",
+    "dessert/cookies/Crack Cookies.md",
+    "dessert/cookies/Cookie Stuffed Croissant.md",
+    "dessert/cookies/Chocolate Dipped Strawberry Cookies.md",
+    "dessert/cookies/Chocolate Chip Cookies.md",
+    "dessert/cookies/Almond Croissant Cookies.md",
+    "dessert/cookies",
+    "breakfast/Carrot Cake Baked Oats.md",
+    "breakfast/Menemen.md",
+    "meal/Lahmacun.md",
+    "misc/part/Lahmacun Dough.md",
+    "misc/part/Lahmacun Filling.md",
+    "dessert/Lemon Raspberry Brownie.md",
     "breakfast/Blueberry Cheesecake Baked Oats.md",
-    "dessert/Crack Cookies.md",
+    "misc/sauce/Yum Yum Sauce.md",
+    "misc/sauce/Salsa Cacahuate.md",
+    "misc/sauce/Caramel Topping.md",
+    "misc/sauce/Tzatziki.md",
+    "misc/sauce/Glaze.md",
+    "misc/sauce",
+    "misc/sauce/Mango Syrup.md",
     "misc/Toffee.md",
-    "dessert/Crack.md",
-    "misc/Tzatziki.md",
-    "misc/Glaze.md",
-    "misc/Caramel Topping.md",
-    "dessert/Early Grey Sugar Cookies.md",
-    "appetizer/Glazed Summer Sausage.md",
-    "dessert/Thai Tea Tres Leches.md",
-    "dessert/Chocolate Dipped Strawberry Cookies.md",
-    "dessert/Almond Croissant Cookies.md",
+    "breakfast/PB&J Baked Oats.md",
+    "Recipes",
+    "misc/part",
     "appetizer",
-    "meal/Turkish Lentil Soup.md",
-    "meal/Japanese Curry Loaded Fries.md",
-    "meal/Japanese Curry.md",
     "Untitled.canvas",
     "misc",
     "dessert",

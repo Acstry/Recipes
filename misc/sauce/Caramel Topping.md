@@ -2,6 +2,7 @@
 tags:
   - dairy
   - component
+  - sauce
 ---
 ### Ingredients:
 - white sugar - 0.5 cups

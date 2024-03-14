@@ -2,6 +2,7 @@
 tags:
   - dessert
   - vegetarian
+  - cookie
 ---
 ### Ingredients:
 - melted butter - 2 sticks

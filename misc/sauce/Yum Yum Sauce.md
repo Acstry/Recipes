@@ -3,6 +3,7 @@ tags:
   - component
   - savory
   - asian
+  - sauce
 ---
 ### Ingredients:
 - mayo - 2 cups
