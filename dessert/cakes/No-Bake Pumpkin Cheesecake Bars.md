@@ -4,6 +4,7 @@ tags:
   - dairy
   - overnight
   - sweet
+  - cake
 ---
 ### Ingredients:
 - [[Graham Cracker Crust]]

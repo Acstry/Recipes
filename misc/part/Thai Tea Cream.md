@@ -1,8 +1,6 @@
 ---
 tags:
-  - dairy
   - part
-  - sweet
 ---
 ### Ingredients:
 - evaporated milk - 1 can/12 oz

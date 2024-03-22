@@ -1,9 +1,6 @@
 ---
 tags:
   - part
-  - mediterranean
-  - dairy
-  - savory
 ---
 ### Ingredients:
 - warm water - 1.25 cups

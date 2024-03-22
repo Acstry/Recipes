@@ -3,6 +3,7 @@ tags:
   - dessert
   - dairy
   - sweet
+  - cake
 ---
 ### Ingredients:
 - apple cider - 6 cups

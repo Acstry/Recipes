@@ -24,6 +24,11 @@
       "pattern": ""
     },
     {
+      "folder": "dessert/cakes",
+      "tag": "#cake",
+      "pattern": ""
+    },
+    {
       "folder": "dessert",
       "tag": "#dessert",
       "pattern": ""
@@ -36,6 +41,11 @@
     {
       "folder": "appetizer",
       "tag": "#appetizer",
+      "pattern": ""
+    },
+    {
+      "folder": "misc",
+      "tag": "#component",
       "pattern": ""
     }
   ],

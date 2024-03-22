@@ -3,6 +3,7 @@ tags:
   - dairy
   - dessert
   - sweet
+  - cake
 ---
 ### Ingredients:
 - flour - 1 cup

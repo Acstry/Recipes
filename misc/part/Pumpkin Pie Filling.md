@@ -1,8 +1,6 @@
 ---
 tags:
   - part
-  - dairy
-  - sweet
 ---
 ### Ingredients:
 - egg - 1

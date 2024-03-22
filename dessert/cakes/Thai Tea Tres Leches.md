@@ -4,6 +4,7 @@ tags:
   - dairy
   - overnight
   - sweet
+  - cake
 ---
 ### Recipe:
 1. make [[Thai Tea Sponge Cake]]
