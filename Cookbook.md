@@ -1,3 +1,9 @@
+### Drink
+```dataview
+LIST FROM #drink SORT file.name asc
+flatten file.name
+```
+___
 ### Breakfast
 ```dataview
 LIST FROM #breakfast SORT file.name asc
