@@ -52,6 +52,11 @@
       "folder": "drink",
       "tag": "#drink",
       "pattern": ""
+    },
+    {
+      "folder": "bread",
+      "tag": "#bread",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

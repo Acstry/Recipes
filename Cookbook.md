@@ -22,6 +22,12 @@ LIST FROM #meal SORT file.name asc
 flatten file.name
 ```
 ---
+### Bread
+```dataview
+LIST FROM #bread SORT file.name asc
+flatten file.name
+```
+---
 ### Desserts
 #### Cakes
 ```dataview

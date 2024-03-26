@@ -1,9 +1,9 @@
 ---
 tags:
-  - component
-  - bread
   - vegetarian
   - dairy
+  - bread
+  - asian
 ---
 ### Ingredients:
 - heavy cream - 0.66 cups
