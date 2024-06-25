@@ -4,6 +4,7 @@ tags:
   - mediterranean
   - savory
   - dairy
+  - tried
 ---
 ### Ingredients:
 - boneless chicken thighs - 4
