@@ -1,6 +1,5 @@
 ---
 tags:
-  - vegetarian
   - dairy
   - bread
   - asian
