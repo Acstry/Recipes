@@ -1,5 +1,3 @@
-
-VAL IS TESTING
 ### Drink
 ```dataview
 LIST FROM #drink SORT file.name asc
