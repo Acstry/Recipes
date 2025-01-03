@@ -17,16 +17,8 @@ flatten file.name
 ```
 ---
 ### Meals
-
-#### Untried Meals
 ```dataview
-LIST FROM #meal SORT file.name asc WHERE !contains(file.tags, "tried")
-flatten file.name
-```
-#### Tried Meals
-
-```dataview
-LIST FROM #meal SORT file.name asc WHERE contains(file.tags, "tried")
+LIST FROM #meal SORT file.name asc
 flatten file.name
 ```
 ---
