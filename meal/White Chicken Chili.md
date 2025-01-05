@@ -1,6 +1,7 @@
 ---
 tags:
   - meal
+  - crockpot
 ---
 ### Ingredients:
 - 1 lb boneless, skinless chicken breast

@@ -1,6 +1,7 @@
 ---
 tags:
   - meal
+  - crockpot
 ---
 ### Ingredients:
 - 6 boneless chicken thighs

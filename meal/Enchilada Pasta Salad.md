@@ -1,6 +1,7 @@
 ---
 tags:
   - meal
+  - pasta_salad
 ---
 ### Ingredients:
 - 1 lb chicken breast

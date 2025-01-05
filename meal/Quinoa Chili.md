@@ -1,6 +1,7 @@
 ---
 tags:
   - meal
+  - vegetarian
 ---
 ### Ingredients:
 - 1 1/2 tbsp olive oil

@@ -2,6 +2,7 @@
 tags:
   - meal
   - mexican
+  - vegetarian
 ---
 ### Ingredients:
 - 3 cans black beans, drained
