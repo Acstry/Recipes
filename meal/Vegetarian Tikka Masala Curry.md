@@ -2,6 +2,7 @@
 tags:
   - meal
   - indian
+  - crockpot
 ---
 ### Ingredients:
 - 4 cups cauliflower florets
