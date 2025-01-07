@@ -1,9 +1,11 @@
 ---
 tags:
   - meal
+  - casserole
+  - fish
 ---
 ### Ingredients:
-- 2 5oz cans tuna, drained
+- 2 5 oz cans tuna, drained
 - 1 can cream of mushroom soup
 - 1 cup milk
 - 8 oz pkg noodles, cooked and drained

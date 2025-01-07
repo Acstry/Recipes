@@ -1,6 +1,7 @@
 ---
 tags:
   - meal
+  - vegetarian
 ---
 ### Ingredients:
 - 1 med carrot, chopped
@@ -11,7 +12,7 @@ tags:
 - 1 garlic clove, minced
 - 1/4 cup dried lentils, sorted and rinsed
 - 1/4 cup medium pearl barley
-- 1 10oz can diced tomatoes with green chiles
+- 1 10 oz can diced tomatoes with green chiles
 - 1 cup water
 - 1 cup vegetable broth
 - 1/4 tsp ground cumin

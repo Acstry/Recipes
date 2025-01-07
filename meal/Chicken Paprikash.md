@@ -3,6 +3,7 @@ tags:
   - meal
   - savory
   - dairy
+  - chicken
 ---
 ### Ingredients:
 - 1 whole chicken

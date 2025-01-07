@@ -7,7 +7,7 @@ tags:
 - 2 tbsp cornstarch
 - 1/4 tsp ground cinnamon
 - 3/4 cup water
-- 1 12oz pkg frozen pitted dark cherries, thawed
+- 1 12 oz pkg frozen pitted dark cherries, thawed
 - 1 tbsp butter
 For the Topping:
 - 1 cup AP flour

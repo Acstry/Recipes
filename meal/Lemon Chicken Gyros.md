@@ -1,5 +1,8 @@
 ---
 tags:
+  - meal
+  - mediterranean
+  - chicken
 ---
 ### Ingredients:
 - 1/2 cup olive oil 

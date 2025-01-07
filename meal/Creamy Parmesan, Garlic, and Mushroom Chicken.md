@@ -2,6 +2,7 @@
 tags:
   - meal
   - dairy
+  - chicken
 ---
 ### Ingredients:
 - 4 chicken breasts, thinly sliced

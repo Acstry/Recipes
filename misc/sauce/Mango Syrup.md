@@ -2,6 +2,7 @@
 tags:
   - sauce
   - sweet
+  - part
 ---
 ### Ingredients:
 - mango skins/pits

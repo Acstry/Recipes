@@ -1,6 +1,7 @@
 ---
 tags:
   - meal
+  - beef
 ---
 ### Ingredients:
 - 1 boneles beef chuck roast (4 to 5 lbs)
@@ -8,7 +9,7 @@ tags:
 - 2 large onions, coarsely chopped
 - 2 cups sliced carrots
 - 2 celery ribs, sliced
-- 2 14.5oz cans italian stewed tomatoes
+- 2 14.5 oz cans italian stewed tomatoes
 - 1 3/4 cups water
 - 1 tsp salt
 - 1/2 tsp dried thyme

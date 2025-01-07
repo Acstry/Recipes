@@ -2,6 +2,7 @@
 tags:
   - meal
   - mediterranean
+  - lamb
 ---
 ### Ingredients:
 Pasta:
@@ -15,11 +16,11 @@ Pasta:
 - 1/2 tsp salt and pepper
 - 10oz conchiglie pasta
 - 2 bay leaves
-- 3 1/2oz halloumi cheese, finely grated
+- 3 1/2 oz halloumi cheese, finely grated
 - 1 tsp dried mint
 Garlic Yogurt:
 - 1 large garlic clove, finely grated
-- 5oz yogurt
+- 5 oz yogurt
 - 1/2 tsp sea salt flakes
 Chili Butter: 
 - 2 oz unsalted butter

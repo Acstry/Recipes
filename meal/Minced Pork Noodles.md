@@ -3,6 +3,7 @@ tags:
   - savory
   - asian
   - meal
+  - pork
 ---
 ### Ingredients:
 - dried shitake mushrooms

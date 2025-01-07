@@ -11,7 +11,7 @@ tags:
 - 1/4 cup lemon juice
 - 1 tsp dried oregano
 - 1/4 tsp salt and pepper
-- 1 15oz can chickpeas, drained and rinsed
+- 1 15 oz can chickpeas, drained and rinsed
 - 1 pint cherry tomatoes, halved
 - 1 cucumber, choppef
 - 1/2 cup kalamata olives, halvef

@@ -1,6 +1,7 @@
 ---
 tags:
   - meal
+  - chicken
 ---
 ### Ingredients:
 - 4 chicken thighs and 4 drumsticks

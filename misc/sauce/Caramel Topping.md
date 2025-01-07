@@ -3,6 +3,7 @@ tags:
   - dairy
   - sauce
   - sweet
+  - part
 ---
 ### Ingredients:
 - white sugar - 0.5 cups

@@ -3,6 +3,7 @@ tags:
   - meal
   - indian
   - crockpot
+  - vegetarian
 ---
 ### Ingredients:
 - 4 cups cauliflower florets

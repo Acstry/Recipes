@@ -2,6 +2,7 @@
 tags:
   - meal
   - mexican
+  - beef
 ---
 ### Ingredients:
 - 1/4 cup olive oil

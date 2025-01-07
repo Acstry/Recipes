@@ -4,7 +4,7 @@ tags:
 ---
 ### Ingredients:
 - evaporated milk - 1 can/12 oz
-- condensed milk - 1 can/ 9oz
+- condensed milk - 1 can/ 9 oz
 - milk - .33 cups
 - loose leaf thai tea - 0.5 cups
 

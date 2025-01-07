@@ -1,6 +1,7 @@
 ---
 tags:
   - meal
+  - beef
 ---
 ### Ingredients:
 - 1 lb ground beef
@@ -9,9 +10,9 @@ tags:
 - 2 cloves garlic, finely chopped
 - 1 med stalk celery, thinly sliced
 - 1 med onion, chopped
-- 1 16oz can kidney beans, drained
-- 1 14.5oz can beef broth
-- 1 16oz whole tomato, undrained
+- 1 16 oz can kidney beans, drained
+- 1 14.5 oz can beef broth
+- 1 16 oz whole tomato, undrained
 For the Biscuits:
 - 2 cups Bisquick
 - 2/3 cup milk

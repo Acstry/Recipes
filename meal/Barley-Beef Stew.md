@@ -1,6 +1,8 @@
 ---
 tags:
   - meal
+  - beef
+  - savory
 ---
 ### Ingredients:
 - 1 1/2 lbs ground beef

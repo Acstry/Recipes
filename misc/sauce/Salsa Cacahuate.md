@@ -4,6 +4,7 @@ tags:
   - sauce
   - savory
   - vegetarian
+  - part
 ---
 ### Ingredients:
 - chili de arbol - 20

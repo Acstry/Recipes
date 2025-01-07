@@ -3,6 +3,7 @@ tags:
   - bread
   - dairy
   - asian
+  - meal
 ---
 ### Ingredients:
 - milk - 0.75 cups

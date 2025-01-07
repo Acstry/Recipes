@@ -1,6 +1,7 @@
 ---
 tags:
   - meal
+  - fish
 ---
 ### Ingredients:
 - 2 tbsp butter

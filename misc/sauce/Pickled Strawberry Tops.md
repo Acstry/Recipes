@@ -2,6 +2,7 @@
 tags:
   - savory
   - sauce
+  - part
 ---
 ### Ingredients:
 - strawberry tops - 1.5 cups

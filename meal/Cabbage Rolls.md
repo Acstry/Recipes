@@ -2,6 +2,7 @@
 tags:
   - meal
   - crockpot
+  - beef
 ---
 ### Ingredients:
 - 12 large green cabbage leaves

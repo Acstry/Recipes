@@ -1,6 +1,7 @@
 ---
 tags:
   - meal
+  - chicken
 ---
 ### Ingredients:
 - 2 tbsp olive oil
@@ -9,7 +10,7 @@ tags:
 - 1 medium onion, finely chopped
 - 4 garlic cloves, crushed
 - 8 oz mushroom, trimmed and thickly sliced
-- 1 14oz can tomatoes
+- 1 14 oz can tomatoes
 - salt and pepper (to taste)
 - 1/2 tsp dried oregano
 - 1/4 tsp dried sage

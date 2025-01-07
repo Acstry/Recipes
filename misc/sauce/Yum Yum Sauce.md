@@ -4,6 +4,7 @@ tags:
   - asian
   - sauce
   - vegetarian
+  - component
 ---
 ### Ingredients:
 - mayo - 2 cups

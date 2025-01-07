@@ -3,6 +3,7 @@ tags:
   - sauce
   - savory
   - asian
+  - part
 ---
 ### Ingredients:
 - egg yolk - 2
