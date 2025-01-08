@@ -29,4 +29,4 @@ tags:
 2. Heat oil in a pot and fry shrimp until cooked through. Set aside. 
 3. In same pan, add next 8 ingredients and salt. Allow to cook until fragrant. 
 4. Add in coconut milk. Allow to cook about 10 minutes, stirring occasionally, or until desired consistency is reached. 
-5. Return shrimp to pot, allow to warm. Serve with rice or roti. 
+5. Return shrimp to pot, allow to warm. Serve with rice or [[Garlic Naan]]. 
