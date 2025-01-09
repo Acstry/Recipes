@@ -2,6 +2,8 @@
 tags:
   - meal
   - chicken
+  - untried
+  - casserole
 ---
 ### Ingredients:
 - 3-4 boneless, skinless chicken breasts (could prob use thighs or whatev)

@@ -4,6 +4,7 @@ tags:
   - mexican
   - vegetarian
   - soup
+  - tried
 ---
 ### Ingredients:
 - 3 cans black beans, drained

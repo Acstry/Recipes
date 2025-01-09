@@ -4,6 +4,7 @@ tags:
   - savory
   - beef
   - sausage
+  - tried
 ---
 ### Ingredients:
 - 1 1/2 lb hot italian sausage 

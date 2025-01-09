@@ -3,6 +3,8 @@ tags:
   - meal
   - mediterranean
   - chicken
+  - sandwich
+  - untried
 ---
 ### Ingredients:
 - 1/2 cup olive oil 

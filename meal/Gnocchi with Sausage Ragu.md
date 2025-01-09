@@ -1,6 +1,9 @@
 ---
 tags:
   - meal
+  - italian
+  - sausage
+  - untried
 ---
 ### Ingredients:
 - 1 lb spicy italian sausage

@@ -2,6 +2,8 @@
 tags:
   - meal
   - dairy
+  - italian
+  - untried
 ---
 ### Ingredients:
 - 1 pkg regular active dry yeast

@@ -2,6 +2,9 @@
 tags:
   - meal
   - fish
+  - pasta
+  - italian
+  - untried
 ---
 ### Ingredients:
 - 5 cloves garlic, minced

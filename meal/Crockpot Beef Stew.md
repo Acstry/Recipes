@@ -4,6 +4,7 @@ tags:
   - crockpot
   - savory
   - beef
+  - tried
 ---
 ### Ingredients:
 - 3 lb stew meat, in cubes

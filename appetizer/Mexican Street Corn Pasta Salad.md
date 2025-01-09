@@ -1,7 +1,9 @@
 ---
 tags:
-  - meal
   - mexican
+  - appetizer
+  - dairy
+  - pasta_salad
 ---
 ### Ingredients:
 - 2 cups ditalini pasta, or any small shape, cooked to package instructions, rinsed, and drained

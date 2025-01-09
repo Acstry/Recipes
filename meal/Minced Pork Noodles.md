@@ -4,6 +4,8 @@ tags:
   - asian
   - meal
   - pork
+  - untried
+  - pasta
 ---
 ### Ingredients:
 - dried shitake mushrooms

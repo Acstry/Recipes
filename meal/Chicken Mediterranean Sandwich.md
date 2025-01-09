@@ -5,6 +5,8 @@ tags:
   - savory
   - dairy
   - chicken
+  - sandwich
+  - tried
 ---
 ### Ingredients:
 - boneless chicken thighs - 4

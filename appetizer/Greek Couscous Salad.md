@@ -1,8 +1,9 @@
 ---
 tags:
-  - meal
   - vegetarian
   - mediterranean
+  - appetizer
+  - pasta_salad
 ---
 ### Ingredients:
 - 10 oz box couscous, cooked

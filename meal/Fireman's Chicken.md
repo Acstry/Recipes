@@ -2,6 +2,8 @@
 tags:
   - meal
   - chicken
+  - overnight
+  - untried
 ---
 ### Ingredients:
 - 2 cups apple cider vinegar

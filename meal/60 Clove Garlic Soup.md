@@ -4,6 +4,8 @@ tags:
   - vegetarian
   - dairy
   - soup
+  - untried
+tried:
 ---
 ### Ingredients:
 - 6 large heads garlic

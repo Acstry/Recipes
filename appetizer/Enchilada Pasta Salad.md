@@ -1,7 +1,10 @@
 ---
 tags:
-  - meal
   - chicken
+  - mexican
+  - pasta_salad
+  - tried
+  - appetizer
 ---
 ### Ingredients:
 - 1 lb chicken breast

@@ -3,6 +3,8 @@ tags:
   - meal
   - beef
   - stew
+  - french
+  - tried
 ---
 ### Ingredients:
 - 1 lb ground beef

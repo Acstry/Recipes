@@ -4,6 +4,7 @@ tags:
   - indian
   - vegetarian
   - curry
+  - untried
 ---
 ### Ingredients:
 - 1/4 cup olive oil

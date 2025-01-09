@@ -2,6 +2,7 @@
 tags:
   - meal
   - fish
+  - untried
 ---
 ### Ingredients:
 - 2 tbsp lime juice

@@ -4,6 +4,7 @@ tags:
   - dairy
   - savory
   - vegetarian
+  - untried
 ---
 ### Ingredients:
 - eggs - 4

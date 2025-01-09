@@ -3,6 +3,9 @@ tags:
   - meal
   - dairy
   - chicken
+  - pasta
+  - italian
+  - tried
 ---
 ### Ingredients:
 - 4 chicken breasts, thinly sliced
