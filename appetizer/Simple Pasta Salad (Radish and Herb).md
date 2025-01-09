@@ -1,6 +1,7 @@
 ---
 tags:
-  - meal
+  - appetizer
+  - pasta_salad
 ---
 ### Ingredients:
 - 1 large cucumber, sliced small

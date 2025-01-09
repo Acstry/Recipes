@@ -2,10 +2,12 @@
 tags:
   - meal
   - sausage
+  - italian
+  - pasta
+  - untried
 ---
 ### Ingredients:
 - 1 head cabbage, chopped into quarters
-- 
 - 1 large onion, diced
 - 1 lb italian sausage
 - 1 tbsp red pepper flakes

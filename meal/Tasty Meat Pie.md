@@ -2,6 +2,7 @@
 tags:
   - meal
   - beef
+  - tried
 ---
 ### Ingredients:
 - 1 lb ground beef

@@ -2,6 +2,9 @@
 tags:
   - asian
   - meal
+  - fish
+  - crockpot
+  - untried
 ---
 ### Ingredients:
 - 1 cup rice

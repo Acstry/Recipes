@@ -3,6 +3,8 @@ tags:
   - meal
   - mexican
   - beef
+  - overnight
+  - untried
 ---
 ### Ingredients:
 - 1/4 cup olive oil

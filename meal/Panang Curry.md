@@ -2,6 +2,9 @@
 tags:
   - indian
   - meal
+  - curry
+  - untried
+  - chicken
 ---
 ### Ingredients:
 - 1 1/3 lbs chicken thighs, sliced

@@ -2,6 +2,10 @@
 tags:
   - asian
   - meal
+  - pasta
+  - nuts
+  - vegetarian
+  - untried
 ---
 ### Ingredients:
 - 3 tbsp sesame paste

@@ -1,6 +1,9 @@
 ---
 tags:
-  - meal
+  - appetizer
+  - ham
+  - pasta_salad
+  - untried
 ---
 ### Ingredients:
 Pasta Salad:

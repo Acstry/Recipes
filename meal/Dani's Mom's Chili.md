@@ -5,6 +5,7 @@ tags:
   - beef
   - sausage
   - tried
+  - stew
 ---
 ### Ingredients:
 - 1 1/2 lb hot italian sausage 

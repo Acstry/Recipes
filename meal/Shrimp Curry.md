@@ -3,6 +3,8 @@ tags:
   - indian
   - meal
   - fish
+  - curry
+  - untried
 ---
 ### Ingredients:
 - 2 eggs

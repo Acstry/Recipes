@@ -2,6 +2,8 @@
 tags:
   - meal
   - vegetarian
+  - stew
+  - tried
 ---
 ### Ingredients:
 - 1 1/2 tbsp olive oil
