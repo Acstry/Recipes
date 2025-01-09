@@ -2,6 +2,9 @@
 tags:
   - meal
   - sausage
+  - italian
+  - pasta
+  - untried
 ---
 ### Ingredients:
 - 1 head cabbage, chopped into quarters
@@ -9,7 +12,6 @@ tags:
 - 1 lb italian sausage
 - 1 tbsp red pepper flakes
 - 2 tbsp butter
-- Splash red wine vinegar
 - Salt and pepper (to taste)
 - 1 pkg packery noodles, cooked to box instructions, drained (reserve ~1 cup pasta water)
 - Fresh grated parmesan

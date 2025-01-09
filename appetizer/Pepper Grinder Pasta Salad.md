@@ -1,7 +1,9 @@
 ---
 tags:
+  - sausage
   - pasta_salad
-  - meal
+  - appetizer
+  - untried
 ---
 ### Ingredients:
 - 1/4 red onion, diced

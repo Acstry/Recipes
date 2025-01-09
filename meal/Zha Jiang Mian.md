@@ -1,8 +1,10 @@
 ---
 tags:
-  - asian
   - meal
   - pork
+  - asian
+  - pasta
+  - untried
 ---
 ### Ingredients:
 - 12 oz ground pork

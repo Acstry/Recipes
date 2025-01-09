@@ -1,6 +1,7 @@
 ---
 tags:
   - dessert
+  - sweet
 ---
 ### Ingredients:
 - 1/2 cup sugar

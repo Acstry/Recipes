@@ -2,6 +2,8 @@
 tags:
   - dessert
   - cake
+  - dairy
+  - sweet
 ---
 ### Ingredients:
 - 2 8oz cans pineapple slices in juice

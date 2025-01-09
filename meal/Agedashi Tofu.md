@@ -2,6 +2,8 @@
 tags:
   - meal
   - vegetarian
+  - asian
+  - untried
 ---
 ### Ingredients:
 - 1 block medium-firm tofu

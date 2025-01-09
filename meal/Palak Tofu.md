@@ -4,6 +4,7 @@ tags:
   - meal
   - indian
   - vegetarian
+  - untried
 ---
 ### Ingredients:
 - tofu - 1

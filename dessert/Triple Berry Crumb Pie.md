@@ -2,6 +2,7 @@
 tags:
   - dessert
   - sweet
+  - nuts
 ---
 ### Ingredients:
 - 1 1/2 cups AP flour

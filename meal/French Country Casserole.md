@@ -3,6 +3,8 @@ tags:
   - meal
   - casserole
   - sausage
+  - french
+  - untried
 ---
 ### Ingredients:
 - 1 lb fully cooked kielbasa

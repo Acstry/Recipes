@@ -2,7 +2,10 @@
 tags:
   - meal
   - vegetarian
+  - dairy
   - soup
+  - untried
+tried:
 ---
 ### Ingredients:
 - 6 large heads garlic
@@ -14,7 +17,6 @@ tags:
 - 1 cup milk (cow or non-dairy)
 - Chicken bouillon (to taste)
 - Large sprig fresh thyme
-
 
 ### Recipe:
 1. Remove heads from garlic, drizzle with olive oil and sprinkle of salt. 

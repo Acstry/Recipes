@@ -3,6 +3,7 @@ tags:
   - breakfast
   - asian
   - chicken
+  - savory
 ---
 ### Ingredients:
 - 1 small onion, chopped

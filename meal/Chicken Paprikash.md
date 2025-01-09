@@ -4,6 +4,8 @@ tags:
   - savory
   - dairy
   - chicken
+  - tried
+  - eaternEuropean
 ---
 ### Ingredients:
 - 1 whole chicken

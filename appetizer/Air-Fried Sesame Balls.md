@@ -2,6 +2,8 @@
 tags:
   - asian
   - appetizer
+  - vegetarian
+  - airfryer
 ---
 ### Ingredients:
 - 1/2 cup water

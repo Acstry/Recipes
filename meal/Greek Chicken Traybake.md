@@ -4,6 +4,7 @@ tags:
   - mediterranean
   - savory
   - chicken
+  - tried
 ---
 ### Ingredients:
 - 2 bell peppers (red or yellow), sliced

@@ -3,6 +3,8 @@ tags:
   - meal
   - vegetarian
   - asian
+  - pasta
+  - untried
 ---
 ### Ingredients:
 - 5 cloves garlic, minced

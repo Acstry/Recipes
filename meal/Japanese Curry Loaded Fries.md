@@ -3,6 +3,7 @@ tags:
   - asian
   - meal
   - savory
+  - untried
 ---
 ### Ingredients:
 - japanese curry block

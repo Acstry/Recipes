@@ -2,6 +2,7 @@
 tags:
   - drink
   - sweet
+  - dairy
 ---
 ### Ingredients:
 - 1.5 qts water

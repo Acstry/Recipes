@@ -2,6 +2,8 @@
 tags:
   - meal
   - vegetarian
+  - pasta
+  - untried
 ---
 ### Ingredients:
 - 8 oz pasta, cooked to package directions, drained (reserve ~1 cup pasta water)

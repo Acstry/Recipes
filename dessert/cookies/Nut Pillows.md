@@ -2,6 +2,8 @@
 tags:
   - cookie
   - dessert
+  - nuts
+  - sweet
 ---
 ### Ingredients:
 Nut Filling:

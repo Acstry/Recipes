@@ -2,6 +2,8 @@
 tags:
   - meal
   - vegetarian
+  - dairy
+  - untried
 ---
 ### Ingredients:
 - 2 green squash

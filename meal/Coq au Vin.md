@@ -2,6 +2,8 @@
 tags:
   - meal
   - chicken
+  - french
+  - tried
 ---
 ### Ingredients:
 - 4 chicken thighs and 4 drumsticks

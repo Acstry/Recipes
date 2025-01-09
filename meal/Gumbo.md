@@ -4,6 +4,8 @@ tags:
   - chicken
   - sausage
   - fish
+  - stew
+  - untried
 ---
 ### Ingredients:
 - 1 stalk of green onion

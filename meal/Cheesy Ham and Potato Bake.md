@@ -3,6 +3,8 @@ tags:
   - meal
   - casserole
   - ham
+  - dairy
+  - tried
 ---
 ### Ingredients:
 - 1 30 oz pkg frozen hash browns, thawed (or 30oz potatoes, skinned, cubed, and par-boiled)

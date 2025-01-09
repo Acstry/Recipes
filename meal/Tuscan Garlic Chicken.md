@@ -3,6 +3,9 @@ tags:
   - meal
   - crockpot
   - chicken
+  - dairy
+  - italian
+  - tried
 ---
 ### Ingredients:
 - 6 boneless chicken thighs

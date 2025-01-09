@@ -2,6 +2,9 @@
 tags:
   - meal
   - sausage
+  - asian
+  - crockpot
+  - untried
 ---
 ### Ingredients:
 - 3 cups water

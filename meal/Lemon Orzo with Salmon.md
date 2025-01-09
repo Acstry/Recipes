@@ -2,6 +2,9 @@
 tags:
   - fish
   - meal
+  - dairy
+  - untried
+  - pasta
 ---
 ### Ingredients:
 - 4 pieces salmon, skinned and cut into pieces

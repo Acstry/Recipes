@@ -2,6 +2,9 @@
 tags:
   - meal
   - vegetarian
+  - stew
+  - untried
+  - ham
 ---
 ### Ingredients:
 - 1 med carrot, chopped

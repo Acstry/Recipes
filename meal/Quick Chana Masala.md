@@ -2,6 +2,9 @@
 tags:
   - meal
   - indian
+  - curry
+  - untried
+  - vegetarian
 ---
 ### Ingredients:
 - 1 tbsp ginger & garlic paste

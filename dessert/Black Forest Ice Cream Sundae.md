@@ -1,6 +1,7 @@
 ---
 tags:
   - dessert
+  - sweet
 ---
 ### Ingredients:
 - 300 grams cherries

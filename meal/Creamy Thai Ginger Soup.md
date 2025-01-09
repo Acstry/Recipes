@@ -3,6 +3,7 @@ tags:
   - asian
   - meal
   - vegetarian
+  - tried
 ---
 ### Ingredients:
 - 1 block firm tofu, cut into cubes

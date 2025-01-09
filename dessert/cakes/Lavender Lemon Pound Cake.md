@@ -3,6 +3,7 @@ tags:
   - cake
   - dessert
   - sweet
+  - dairy
 ---
 ### Ingredients:
 - 1 1/2 cups AP flour

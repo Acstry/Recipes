@@ -2,6 +2,7 @@
 tags:
   - chicken
   - meal
+  - untried
 ---
 ### Ingredients:
 - 3 lbs chicken pieces of choice

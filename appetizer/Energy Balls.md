@@ -1,6 +1,9 @@
 ---
 tags:
   - appetizer
+  - breakfast
+  - sweet
+  - nuts
 ---
 ### Ingredients:
 - 1 cup of oatmeal

@@ -3,6 +3,9 @@ tags:
   - meal
   - indian
   - vegetarian
+  - curry
+  - dairy
+  - untried
 ---
 ### Ingredients:
 - Olive oil

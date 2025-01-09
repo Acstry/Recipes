@@ -4,6 +4,9 @@ tags:
   - indian
   - crockpot
   - vegetarian
+  - dairy
+  - curry
+  - untried
 ---
 ### Ingredients:
 - 4 cups cauliflower florets

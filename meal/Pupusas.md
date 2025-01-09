@@ -2,6 +2,9 @@
 tags:
   - meal
   - mexican
+  - beef
+  - sandwich
+  - untried
 ---
 ### Ingredients:
 - Equal parts corn flour and warm water

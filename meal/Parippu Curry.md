@@ -2,6 +2,9 @@
 tags:
   - meal
   - indian
+  - curry
+  - vegetarian
+  - untried
 ---
 ### Ingredients:
 For Dal: 

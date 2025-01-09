@@ -2,6 +2,8 @@
 tags:
   - meal
   - beef
+  - stew
+  - untried
 ---
 ### Ingredients:
 - 1 boneles beef chuck roast (4 to 5 lbs)

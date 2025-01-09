@@ -1,7 +1,8 @@
 ---
 tags:
-  - meal
   - mexican
+  - appetizer
+  - dairy
   - pasta_salad
 ---
 ### Ingredients:

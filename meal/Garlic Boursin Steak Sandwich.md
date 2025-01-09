@@ -2,6 +2,8 @@
 tags:
   - meal
   - beef
+  - sandwich
+  - untried
 ---
 ### Ingredients:
 - 1 large head garlic

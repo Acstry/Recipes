@@ -2,6 +2,8 @@
 tags:
   - meal
   - vegetarian
+  - sandwich
+  - untried
 ---
 ### Ingredients:
 - 1 can chickpeas, drained

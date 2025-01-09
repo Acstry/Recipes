@@ -2,6 +2,8 @@
 tags:
   - meal
   - fish
+  - tried
+  - stew
 ---
 ### Ingredients:
 - 2 tbsp butter

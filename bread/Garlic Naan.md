@@ -2,6 +2,7 @@
 tags:
   - bread
   - indian
+  - savory
 ---
 ### Ingredients:
 Dough: 

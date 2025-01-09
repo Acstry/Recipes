@@ -4,6 +4,8 @@ tags:
   - meal
   - savory
   - vegetarian
+  - soup
+  - untried
 ---
 ### Ingredients:
 - chopped onion

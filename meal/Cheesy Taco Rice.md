@@ -2,6 +2,8 @@
 tags:
   - meal
   - beef
+  - mexican
+  - untried
 ---
 ### Ingredients:
 - 1 lb ground beef

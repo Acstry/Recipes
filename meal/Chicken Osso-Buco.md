@@ -2,6 +2,8 @@
 tags:
   - meal
   - chicken
+  - italian
+  - tried
 ---
 ### Ingredients:
 - 2 tbsp vegetable oil
