@@ -2,7 +2,6 @@
 tags:
   - meal
   - vegetarian
-  - pasta_salad
 ---
 ### Ingredients:
 - 1 cup orzo, cooked

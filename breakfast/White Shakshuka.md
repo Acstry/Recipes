@@ -2,6 +2,7 @@
 tags:
   - breakfast
   - vegetarian
+  - savory
 ---
 ### Ingredients:
 - 1/2 onion, finely diced

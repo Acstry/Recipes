@@ -3,6 +3,7 @@ tags:
   - cookie
   - dessert
   - sweet
+  - nuts
 ---
 ### Ingredients:
 - 1 1/4 cups firmly packed light brown sugar

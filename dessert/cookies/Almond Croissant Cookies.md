@@ -3,6 +3,7 @@ tags:
   - dessert
   - cookie
   - sweet
+  - nuts
 ---
 ### Ingredients:
 - melted butter - 2 sticks

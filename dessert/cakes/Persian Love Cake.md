@@ -2,6 +2,8 @@
 tags:
   - cake
   - dessert
+  - nuts
+  - sweet
 ---
 ### Ingredients:
 Cake

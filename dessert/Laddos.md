@@ -2,6 +2,7 @@
 tags:
   - dessert
   - sweet
+  - nuts
 ---
 ### Ingredients:
 - almonds

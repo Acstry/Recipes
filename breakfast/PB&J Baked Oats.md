@@ -3,6 +3,7 @@ tags:
   - breakfast
   - vegetarian
   - sweet
+  - nuts
 ---
 ### Ingredients:
 - oats - 1.5 cups

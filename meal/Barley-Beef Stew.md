@@ -3,6 +3,7 @@ tags:
   - meal
   - beef
   - savory
+  - stew
 ---
 ### Ingredients:
 - 1 1/2 lbs ground beef

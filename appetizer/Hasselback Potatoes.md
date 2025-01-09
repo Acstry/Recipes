@@ -1,6 +1,7 @@
 ---
 tags:
   - appetizer
+  - vegetarian
 ---
 ### Ingredients:
 - 1 stick butter, softened

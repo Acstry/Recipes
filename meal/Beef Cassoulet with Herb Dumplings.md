@@ -2,6 +2,7 @@
 tags:
   - meal
   - beef
+  - stew
 ---
 ### Ingredients:
 - 1 lb ground beef

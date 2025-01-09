@@ -3,6 +3,7 @@ tags:
   - meal
   - indian
   - vegetarian
+  - curry
 ---
 ### Ingredients:
 - 1/4 cup olive oil

@@ -2,6 +2,9 @@
 tags:
   - appetizer
   - mediterranean
+  - dip
+  - vegetarian
+  - savory
 ---
 ### Ingredients:
 - 2 red bell peppers, sliced into large chunks

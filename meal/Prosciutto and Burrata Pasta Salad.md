@@ -1,7 +1,6 @@
 ---
 tags:
   - meal
-  - pasta_salad
 ---
 ### Ingredients:
 Pasta Salad:

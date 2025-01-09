@@ -1,6 +1,8 @@
 ---
 tags:
   - dessert
+  - sweet
+  - nuts
 ---
 ### Ingredients:
 - 1 tube Pillsbury crescent rolls 
