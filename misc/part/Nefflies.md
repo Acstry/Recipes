@@ -1,6 +1,8 @@
 ---
 tags:
   - part
+  - eaternEuropean
+  - dairy
 ---
 ### Ingredients:
 - 1 cup flour

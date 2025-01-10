@@ -29,4 +29,4 @@ tags:
 5. Place chicken into pot. Add chicken broth until covered. Salt and pepper to taste. 
 6. Cook 20-30 mins uncovered, stirring occasionally. Mixture should thicken slightly. 
 7. Mix cornstarch into slurry and add to mixture. Allow ~15 mins to thicken. 
-8. Stir in [nefflies](). Add sour cream to taste. Serve. 
+8. Stir in [[Nefflies]]. Add sour cream to taste. Serve. 
