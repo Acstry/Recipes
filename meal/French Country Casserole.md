@@ -13,6 +13,7 @@ tags:
 - 1 15 oz can black beans, rinsed and drained
 - 1 15 oz can tomato sauce
 - 3 medium carrots, thinly sliced
+- 2 medium stalks celery, thinly sliced
 - 2 small onions, sliced into rings
 - 1/2 cup dry red wine or beef broth
 - 2 tbsp brown sugar
