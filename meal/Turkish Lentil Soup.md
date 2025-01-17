@@ -1,11 +1,11 @@
 ---
 tags:
-  - mediterranean
   - meal
   - savory
   - vegetarian
   - soup
   - untried
+  - middleEastern
 ---
 ### Ingredients:
 - chopped onion

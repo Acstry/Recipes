@@ -5,6 +5,7 @@ tags:
   - chicken
   - sandwich
   - untried
+  - overnight
 ---
 ### Ingredients:
 - 1/2 cup olive oil 

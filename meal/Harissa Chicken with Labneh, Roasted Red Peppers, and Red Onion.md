@@ -3,6 +3,7 @@ tags:
   - chicken
   - meal
   - untried
+  - middleEastern
 ---
 ### Ingredients:
 For the Chicken: 

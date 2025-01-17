@@ -1,7 +1,8 @@
 ---
 tags:
   - meal
-  - mediterranean
+  - middleEastern
+  - tried
 ---
 ### Ingredients:
 - 1 lb dry uncooked chickpeas

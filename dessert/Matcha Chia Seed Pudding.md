@@ -2,6 +2,7 @@
 tags:
   - dessert
   - sweet
+  - overnight
 ---
 ### Ingredients:
 - 2 tbsp chia seeds

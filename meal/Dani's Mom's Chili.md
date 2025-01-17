@@ -23,4 +23,4 @@ tags:
 ### Recipe:
 1. In dutch oven, cook sausage, ground beef, onion, and garlic in hot oil. 
 2. Add remaining ingredients and simmer for 45 mins or longer. 
-3. Serve (optional toppings: sour cream, cheese, green onion, crackers).
+3. Serve (optional toppings: sour cream, cheese, green onion, crackers, [[Jalapeno Popper Corn Muffins]]).
