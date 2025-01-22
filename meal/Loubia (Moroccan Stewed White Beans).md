@@ -1,11 +1,11 @@
 ---
 tags:
   - meal
-  - middleEastern
   - overnight
   - stew
   - untried
   - vegetarian
+  - african
 ---
 ### Ingredients:
 - 1 lb dry cannellini beans, soaked overnight and drained
