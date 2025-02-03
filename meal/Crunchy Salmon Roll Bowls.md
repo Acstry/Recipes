@@ -3,7 +3,7 @@ tags:
   - asian
   - fish
   - meal
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 1 cup cooked rice
