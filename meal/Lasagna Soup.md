@@ -2,10 +2,10 @@
 tags:
   - italian
   - meal
-  - pasta
   - soup
-  - untried
   - beef
+  - pasta
+  - tried
 ---
 ### Ingredients:
 Ricotta Filling: 
@@ -34,6 +34,7 @@ Soup:
 - 1/4 to 1/3 cup grated parmesan
 - 2 tbsp basil, chopped
 - 1/3 cup shredded mozzarella
+I subbed the nutmeg in the filling for black pepper and lemon juice (zest would be good too). And put the mozzarella on top instead of mixed in. Also cut out the heavy cream and it was fine. 
 
 ### Recipe:
 1. For the Filling: To a small bowl, mix together all ingredients until smooth. Set aside. 

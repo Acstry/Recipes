@@ -4,8 +4,8 @@ tags:
   - mediterranean
   - chicken
   - sandwich
-  - untried
   - overnight
+  - tried
 ---
 ### Ingredients:
 - 1/2 cup olive oil 

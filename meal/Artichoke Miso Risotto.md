@@ -1,8 +1,8 @@
 ---
 tags:
   - meal
-  - untried
   - vegetarian
+  - tried
 ---
 ### Ingredients:
 - 1 15oz can artichoke hearts, rinsed

@@ -4,8 +4,8 @@ tags:
   - ham
   - savory
   - stew
-  - untried
   - meal
+  - tried
 ---
 ### Ingredients:
 - 1 cup onions, sliced
@@ -27,6 +27,7 @@ tags:
 - 2 tsp sugar
 - 5 cloves garlic, minced
 - 4 cups dashi, chicken, or beef broth
+Note: I left out the baked beans, and added more than the stated amount of rice cakes, sausage, and noodles. Used broth to cover instead and it was good and lasted. Maybe cook and add the noodles on the side for texture reasons? 
 
 ### Recipe:
 1. Slice and prepare all ingredients. 
