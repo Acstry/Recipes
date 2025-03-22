@@ -4,7 +4,7 @@ tags:
   - fish
   - pasta
   - italian
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 5 cloves garlic, minced

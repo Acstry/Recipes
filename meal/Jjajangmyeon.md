@@ -4,7 +4,7 @@ tags:
   - meal
   - pasta
   - pork
-  - untried
+  - tried
 ---
 ### Ingredients:
 - jjajangmyeon noodles (thicker, flat)
@@ -18,6 +18,7 @@ tags:
 - 2 tbsp potato starch, combined with 1/4 cup water and 1 tsp sugar
 - 1 tsp sesame oil
 - 1/2 cup cucumber, cut into matchsticks
+Note: Noodles do not keep well in the fridge. Store separately. 
 
 ### Recipe:
 1. Stir fry the pork belly in a large, deep pan with 1 tbsp of vegetable oil for ~4-5 mins, until golden brown and crispy. Drain.

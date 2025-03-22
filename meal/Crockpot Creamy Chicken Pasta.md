@@ -3,8 +3,8 @@ tags:
   - meal
   - crockpot
   - chicken
-  - untried
   - dairy
+  - tried
 ---
 ### Ingredients:
 - 1 lb chicken breast
