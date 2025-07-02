@@ -2,7 +2,7 @@
 tags:
   - chicken
   - meal
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 3 lbs chicken pieces of choice
@@ -16,7 +16,7 @@ tags:
 - 1/2 cup olive oil
 - 1/2 cup water
 - 1 tsp salt
-
+Note: I roasted the garlic in the oven with the veggies for the first 25 mins, took it out and then mixed it into the vinaigrette. Came out really good. 
 ### Recipe:
 1. Combine chicken and potatoes in a large baking dish. Add in spices, a drizzle of olive oil, and salt to taste. 
 2. Bake uncovered at 400 degrees for 30 mins. 

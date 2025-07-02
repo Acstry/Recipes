@@ -5,7 +5,7 @@ tags:
   - sausage
   - fish
   - stew
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 1 stalk of green onion
@@ -15,11 +15,10 @@ tags:
 - 1 lb chicken, cubed
 - 1/2 stick unsalted butter
 - 1 cup vegetable oil
-- 1 cup flour
+- 1 1/2 cup flour
 - 6 garlic cloves, minced
 - 1 greed, red, and yellow bell pepper chopped 
 - 1 small sweet onion, chopped
-- 2 banana peppers, chopped
 - 2 celery stalks, sliced
 - 1 6 oz can tomato paste
 - 2 tbsp gumbo file
@@ -42,7 +41,6 @@ tags:
 4. Melt butter in dutch oven. Mix in vegetable oil. Slowly add in flour and stir. Constantly stir and mix until dark brown, about 45 mins to an hour. 
 5. Stir in garlic, peppers, onion, and celery. Saute in roux for 5-7 mins, until softened.
 6. Pour in shrimp broth and mix well. Add in tomato paste. Mix well and bring to a boil. Simmer for 20 mins.  
-7. Add in seasonings. Return andouille sausage to pot. Add in 1/2 bottle of blue moon beer. Mix well and simmer for additional 20 mins. 
-8. Add in chicken and hot sauce, mix. 
-9. Stir in shrimp and cook for last 5-7 mins. 
-10. Serve over white rice. 
+7. Add in seasonings. Return andouille sausage and chicken to pot. Add in 1/2 bottle of blue moon beer. Mix well and simmer for additional 20 mins. 
+8. Stir in shrimp and hot sauce and cook for last 5-7 mins. 
+9. Serve over white rice. 

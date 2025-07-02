@@ -4,7 +4,7 @@ tags:
   - meal
   - mediterranean
   - soup
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 4 cups chicken broth

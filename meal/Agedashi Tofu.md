@@ -1,9 +1,9 @@
 ---
 tags:
-  - meal
   - vegetarian
   - asian
   - untried
+  - appetizer
 ---
 ### Ingredients:
 - 1 block medium-firm tofu

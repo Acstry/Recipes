@@ -18,6 +18,7 @@ tags:
 - 1 14oz can chickpeas, drained and rinsed
 - 2 oz parmesan
 - pepper (to taste)
+Note: less whole lemon, sub lemon juice, char lemon for longer, sub parmesan for feta, maybe add cilantro? 
 
 ### Recipe:
 1. Rinse farro under cool water. Bring a large pot of water to boil and generously salt. Add farro, reduce to a low simmer. Cover and simmer according to pkg directions. 

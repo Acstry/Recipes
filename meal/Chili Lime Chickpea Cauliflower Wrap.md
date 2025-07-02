@@ -3,7 +3,7 @@ tags:
   - meal
   - vegetarian
   - sandwich
-  - untried
+  - tried
 ---
 ### Ingredients:
 Wraps:
@@ -24,6 +24,7 @@ Chipotle Yogurt Sauce:
 - 2 tsp maple syrup (or any sweetener)
 - 1 clove garlic, grated
 - 1/4 cup cilantro, minced
+Note: Not very filling. Maybe add some tofu or marinated chicken to the wraps? 
 
 ### Recipe:
 1. In one lined baking tray, lay out cauliflower, drizzle with oil, and top with seasonings. Mix well and spread over sheet evenly. 
