@@ -2,8 +2,8 @@
 tags:
   - fish
   - soup
-  - untried
   - meal
+  - tried
 ---
 ### Ingredients:
 - 1 cup white rice, cooked to pkg directions
@@ -18,6 +18,7 @@ tags:
 - 1/2 cup neutral oil
 - 1 lb salmon
 - salt and pepper (to taste)
+Notes: Gazpacho was better as a sauce than a soup. Took forever to blend. 
 
 ### Recipe:
 1. Preheat oven to 325 degrees.
