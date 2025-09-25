@@ -3,7 +3,7 @@ tags:
   - meal
   - chicken
   - french
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 2 tbsp olive oil

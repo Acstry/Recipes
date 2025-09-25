@@ -3,7 +3,7 @@ tags:
   - eaternEuropean
   - meal
   - soup
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 32 oz kefir (can sub. for greek yogurt slightly diluted)

@@ -2,8 +2,8 @@
 tags:
   - meal
   - pasta
-  - untried
   - vegetarian
+  - tried
 ---
 ### Ingredients:
 - 6 oz linguine (or any) pasta, cooked al dente, reserving 1/4 cup pasta water

@@ -1,10 +1,10 @@
 ---
 tags:
   - sandwich
-  - untried
   - lamb
   - meal
   - middleEastern
+  - tried
 ---
 ### Ingredients:
 - 5 pitas, or pita pockets
