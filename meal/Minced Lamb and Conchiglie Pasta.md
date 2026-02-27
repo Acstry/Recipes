@@ -8,7 +8,7 @@ tags:
 ---
 ### Ingredients:
 Pasta:
-- 1 chicken stock cube
+- 4 cups chicken stock
 - 3 tbsp olive oil
 - 2 onions, finely chopped
 - 1 tsp ground cumin
@@ -32,10 +32,13 @@ Chili Butter:
 - 1 tsp dried mint
 
 ### Recipe:
-1. Dissolve stock cube in boiling water and set aside.
-2. Heat olive oil in a pan over medium heat and saute onions until light golden-brown. Add the cumin and paprika, stir well and cook until aromatic. Stir through the tomato paste.
-3. Add the minced lamb, breaking it down with the back of a wooden spoon and mixing through other ingredients. Add salt and pepper and brown meat.
-4. Add the pasta, bay leaves, and stock, stir, bring to a simmer and cook for 10-12 mins, stirring occasionally. 
-5. For the chili butter: melt the butter in a frying pan over medium heat, then add in the olive oil. When it starts to sizzle, stir through the red pepper paste, pul biber, and dried mint. Let it start to bubble, then remove the heat. 
-6. Once the pasta is cooked al dente and the liquid has reduced, remove from heat and stir. Combine the halloumi and dried mint in a small bowl. 
-7. Top with halloumi, garlic yogurt, and chili butter. Serve. 
+1. Heat olive oil in a pan over med heat and sauté onions until light golden-brown. Add cumin and paprika, stir well and cook until aromatic. Stir through tomato paste. 
+2. Add minced lamb, salt & pepper to taste. Brown meat. 
+3. Add the stock, bay leaves, and pasta to meat. Cook until pasta is al dente and sauce has thickened, stirring occasionally. 
+4. For the chili butter: melt butter in a frying pan over medium heat, then add in the olive oil. When it starts to sizzle, stir through the red pepper paste, pul biber, and mint. Let it start to bubble, then remove from heat. 
+NOTE: paste occasionally doesn’t emulsify properly? either watch the heat closely and cook on low or perhaps remove oil from heat before adding addtl. ingredients. 
+5. For the yogurt: mix together all ingredients in a small bowl. 
+6. For the halloumi: mix together halloumi and mint in a small bowl. 
+7. Portion out pasta and top with halloumi, garlic yogurt, and chili butter. Serve. 
+
+NOTE: I have used fresh mint instead of dried and it’s fine. 

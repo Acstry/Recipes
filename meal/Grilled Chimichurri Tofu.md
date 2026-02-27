@@ -1,8 +1,8 @@
 ---
 tags:
   - meal
-  - untried
   - vegetarian
+  - tried
 ---
 ### Ingredients:
 - 2 blocks extra-firm tofu, pressed

@@ -4,7 +4,7 @@ tags:
   - fish
   - meal
   - soup
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 1 10oz filet of skin-on salmon

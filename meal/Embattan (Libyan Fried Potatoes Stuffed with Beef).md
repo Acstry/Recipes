@@ -3,7 +3,7 @@ tags:
   - african
   - beef
   - meal
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 4 lg russet potatoes, washed and peeled
