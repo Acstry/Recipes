@@ -10,6 +10,7 @@ tags:
 - [[Whipped Cream]]
 - packed brown sugar - 0.25 cups
 - sugar - 0.25 cups
+- butter - 1 cup
 - salt
 - egg yolk - 1
 - cinnamon - 2 tsps
