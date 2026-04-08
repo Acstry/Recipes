@@ -2,6 +2,7 @@
 tags:
   - dessert
   - sweet
+  - cake
 ---
 ### Ingredients:
 Jam: 
