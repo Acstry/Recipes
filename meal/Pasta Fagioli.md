@@ -3,8 +3,8 @@ tags:
   - meal
   - pasta
   - italian
-  - untried
   - vegetarian
+  - tried
 ---
 ### Ingredients:
 - Olive oil

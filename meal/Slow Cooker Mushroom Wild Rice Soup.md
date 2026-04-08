@@ -3,7 +3,7 @@ tags:
   - meal
   - crockpot
   - soup
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 2 med carrots, finely diced

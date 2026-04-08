@@ -4,7 +4,7 @@ tags:
   - meal
   - fish
   - crockpot
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 1 cup rice

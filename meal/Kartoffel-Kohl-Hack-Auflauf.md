@@ -4,7 +4,7 @@ tags:
   - casserole
   - meal
   - savory
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 700g potatoes, peeled and cut into thin slices

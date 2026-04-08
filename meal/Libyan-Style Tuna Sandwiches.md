@@ -3,8 +3,8 @@ tags:
   - meal
   - fish
   - sandwich
-  - untried
   - african
+  - tried
 ---
 ### Ingredients:
 - 5 oz can tuna, drained

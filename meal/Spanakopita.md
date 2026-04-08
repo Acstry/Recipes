@@ -3,7 +3,7 @@ tags:
   - meal
   - vegetarian
   - mediterranean
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 3 lbs spinach

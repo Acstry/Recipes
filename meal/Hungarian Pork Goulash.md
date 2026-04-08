@@ -3,9 +3,9 @@ tags:
   - meal
   - pork
   - stew
-  - untried
   - eaternEuropean
   - dairy
+  - tried
 ---
 ### Ingredients:
 - 2 tbsp vegetable oil

@@ -5,7 +5,7 @@ tags:
   - vegetarian
   - curry
   - dairy
-  - untried
+  - tried
 ---
 ### Ingredients:
 - Olive oil

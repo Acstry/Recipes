@@ -1,10 +1,10 @@
 ---
 tags:
   - vegetarian
-  - untried
   - pasta
   - meal
   - dairy
+  - tried
 ---
 ### Ingredients:
 - 16 oz mezze rigatoni pasta, or any, cooked to pkg directions

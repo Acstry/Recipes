@@ -4,7 +4,7 @@ tags:
   - mexican
   - beef
   - sandwich
-  - untried
+  - tried
 ---
 ### Ingredients:
 - Equal parts corn flour and warm water

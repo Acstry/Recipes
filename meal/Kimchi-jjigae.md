@@ -4,7 +4,7 @@ tags:
   - meal
   - pork
   - stew
-  - untried
+  - tried
 ---
 ### Ingredients:
 - 1 lb kimchi, cut in bite-size pieces
